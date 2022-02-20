@@ -1,5 +1,4 @@
-### Hi there 👋
-
+  ![Snake animation](https://github.com/LucasGabriello/LucasGabriello/blob/output/github-contribution-grid-snake.svg)
 <!--
 **LucasGabriello/LucasGabriello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
