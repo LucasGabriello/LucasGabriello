@@ -1,24 +1,49 @@
-  
- <div align="center">
-  <a href="https://github.com/lucasgabriello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabriello&layout=compact&langs_count=7&theme=ligth"/>
-</div>
-<div align="center">
-  
-  ![Snake animation](https://github.com/LucasGabriello/LucasGabriello/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<!--
-**LucasGabriello/LucasGabriello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Lucas Gabriel | Data Engineer
 
-Here are some ideas to get you started:
+🚀 **Transformando dados em ativos estratégicos.**  
+Engenheiro de Dados com experiência em **bancos digitais**, **produtos financeiros** e arquiteturas modernas em nuvem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Sobre mim
+
+- 🔹 Data Engineer focado em performance, escalabilidade e confiabilidade  
+- 🔹 Forte atuação com **Databricks, AWS e arquiteturas distribuídas**  
+- 🔹 Trabalhando diariamente com **SQL, Python, PySpark e pipelines ETL/ELT**  
+- 🔹 Experiência com grandes volumes de dados e ambientes críticos  
+
+---
+
+## 🧪 Meu GitHub é meu laboratório
+
+> Se existe uma forma melhor de trabalhar com dados — provavelmente estou testando.
+
+---
+
+## 🛠️ Stack Principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,gcp,git" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Databricks-Data%20Platform-red?style=for-the-badge&logo=databricks"/>
+  <img src="https://img.shields.io/badge/PySpark-Big%20Data-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge"/>
+</p>
+
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-gabriel-as/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+⭐ **Se curtir algum projeto, não esquece de dar uma estrela!**
