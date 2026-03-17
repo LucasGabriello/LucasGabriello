@@ -14,7 +14,7 @@ Engenheiro de Dados com experiência em **bancos digitais**, **produtos financei
 
 ---
 
-## 🧪 Meu GitHub é meu laboratório
+## 🧪 GitHub laboratório
 
 > Se existe uma forma melhor de trabalhar com dados — provavelmente estou testando.
 
